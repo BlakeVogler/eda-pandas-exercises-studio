@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/cleaning-data-pandas-exercises-studio/.idea/cleaning-data-pandas-exercises-studio.iml" filepath="$USER_HOME$/cleaning-data-pandas-exercises-studio/.idea/cleaning-data-pandas-exercises-studio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/eda-pandas-exercises-studio.iml" filepath="$PROJECT_DIR$/.idea/eda-pandas-exercises-studio.iml" />
+    </modules>
+  </component>
+</project>
